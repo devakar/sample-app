@@ -1,6 +1,6 @@
 ---
 applications:
-- name: i330519-crud
+- name: crud-app
   buildpack: java_buildpack
   memory: 1G
   instances: 1
